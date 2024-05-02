@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on to many things
+- 🔭 I’m currently working something cool...
 
