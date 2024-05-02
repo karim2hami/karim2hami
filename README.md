@@ -7,7 +7,9 @@
             alt="Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karim2hami&theme=dark&count_private=true"
-            alt="Github commit streak">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim2hami&theme=dark&count_private=true"
+            alt="Top Languages">
     </a>
 </div>
+
+
