@@ -3,11 +3,11 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karim2hami&theme=dark&count_private=true&show_icons=true&#41;"
+        <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=karim2hami&theme=dark&count_private=true&show_icons=true&#41;"
             alt="Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim2hami&theme=dark&count_private=true"
+        <img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim2hami&theme=dark&count_private=true"
             alt="Top Languages">
     </a>
 </div>
